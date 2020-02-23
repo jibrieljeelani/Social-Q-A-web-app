@@ -14,7 +14,7 @@
   "tags": [
     {
       "name": "API#002 Common",
-      "description": "All operations marked with 'API#002 Common' are relevant to the common use case"
+      "description": "All operations marked with 'API#002 Common' are relevant to the common use case."
     }
   ],
   "securityDefinitions": {
@@ -72,7 +72,7 @@
             "headers": {
               "request-id": {
                 "type": "string",
-                "description": "Used as correlation id while tracing for the request in the backend"
+                "description": "Used as correlation id while tracing for the request in the backend."
               }
             }
           },
@@ -90,7 +90,7 @@
             "headers": {
               "request-id": {
                 "type": "string",
-                "description": "Used as correlation id while tracing for the request in the backend"
+                "description": "Used as correlation id while tracing for the request in the backend."
               }
             }
           },
@@ -99,7 +99,7 @@
             "headers": {
               "request-id": {
                 "type": "string",
-                "description": "Used as correlation id while tracing for the request flow to the backend"
+                "description": "Used as correlation id while tracing for the request flow to the backend."
               }
             }
           },
@@ -108,7 +108,7 @@
             "headers": {
               "request-id": {
                 "type": "string",
-                "description": "Used as correlation id while tracing for the request in the backend"
+                "description": "Used as correlation id while tracing for the request in the backend."
               }
             }
           }
