@@ -14,7 +14,7 @@
   "tags": [
     {
       "name": "API#003 Admin",
-      "description": "All operations marked with 'API#003 Admin' are relevant to the admin use case"
+      "description": "All operations marked with 'API#003 Admin' are relevant to the admin use case."
     }
   ],
   "securityDefinitions": {
